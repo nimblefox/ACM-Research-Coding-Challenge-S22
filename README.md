@@ -25,7 +25,8 @@ In Notebook 2 - PMM, I have done the following
 I had a great time working on this challange and have learnt new techniques and concepts. While, I did a lot of experimentation it has been ommited for brevity
 
 
-Below is the list of References that I have used
+
+**References**
 1. https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
 2. https://machinelearningmastery.com/data-leakage-machine-learning/
 3. https://stackoverflow.com/questions/28218698/how-to-iterate-over-columns-of-pandas-dataframe-to-run-regression
