@@ -5,10 +5,10 @@ For this challange I have used 2 Jupyter notebooks for better explainability
 2. Preprocessing, Modelling, and Metrics (PMM)
 
 In Notebook 1 - EDA, I have done the following 
-  a. Checking Summary Statistics
-  b. Plotting frequency histogram
-  c. Plotting a Correlation heatmap
-  d. Getting inferences from the above steps to decide preprocessing plan
+  1. Checking Summary Statistics
+  2. Plotting frequency histogram
+  3. Plotting a Correlation heatmap
+  4. Getting inferences from the above steps to decide preprocessing plan
 
 In Notebook 2 - PMM, I have done the following 
   a. Dropping non relevant features
