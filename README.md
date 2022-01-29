@@ -1,8 +1,8 @@
 # ACM Research Coding Challenge (Spring 2022)
 
 For this challange I have used 2 Jupyter notebooks for better explainability
-1. Exploratory data analysis (EDA)
-2. Preprocessing, Modelling, and Metrics (PMM)
+1. [Exploratory data analysis (EDA)](https://github.com/nimblefox/ACM-Research-Coding-Challenge-S22/blob/main/Exploratory%20data%20analysis.ipynb)
+2. [Preprocessing, Modelling, and Metrics (PMM)](https://github.com/nimblefox/ACM-Research-Coding-Challenge-S22/blob/main/Preprocessing%2C%20Modelling%20and%20Metrics.ipynb)
 
 
 In Notebook 1 - EDA, I have done the following 
