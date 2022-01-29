@@ -4,6 +4,7 @@ For this challange I have used 2 Jupyter notebooks for better explainability
 1. Exploratory data analysis (EDA)
 2. Preprocessing, Modelling, and Metrics (PMM)
 
+
 In Notebook 1 - EDA, I have done the following 
   1. Checking Summary Statistics
   2. Plotting frequency histogram
@@ -11,17 +12,19 @@ In Notebook 1 - EDA, I have done the following
   4. Getting inferences from the above steps to decide preprocessing plan
 
 In Notebook 2 - PMM, I have done the following 
-  a. Dropping non relevant features
-  b. Encoding Nominal data
-  c. Fitting the data to a Logistic regression model and performing Cross Validation
-  d. Looking at Metrics of the LR model
-  e. Reasoning to move on to a new model
-  f. Fitting the data to a Decision Tree model and performing Cross Validation
-  g. Looking at Metrics of the DT model
-  h. Checking the feature importance from DT model
+  1. Dropping non relevant features
+  2. Encoding Nominal data
+  3. Fitting the data to a Logistic regression model and performing Cross Validation
+  4. Looking at Metrics of the LR model
+  5. Reasoning to move on to a new model
+  6. Fitting the data to a Decision Tree model and performing Cross Validation
+  7. Looking at Metrics of the DT model
+  8. Checking the feature importance from DT model
+
 
 I had a great time working on this challange and have learnt new techniques and concepts
 I did a lot of experimentation which has not been shown in the final notebook
+
 
 Below is the list of References that I have used
 1. https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
