@@ -6,10 +6,11 @@ For this challange I have used 2 Jupyter notebooks for better explainability
 
 
 In Notebook 1 - EDA, I have done the following 
-  1. Checking Summary Statistics
-  2. Plotting frequency histogram
-  3. Plotting a Correlation heatmap
-  4. Getting inferences from the above steps to decide preprocessing plan
+  1. Understanding the problem 
+  2. Checking Summary Statistics
+  3. Plotting frequency histogram of features
+  4. Plotting a Correlation heatmap
+  5. Getting inferences from the above steps to decide preprocessing plan
 
 In Notebook 2 - PMM, I have done the following 
   1. Dropping non relevant features
