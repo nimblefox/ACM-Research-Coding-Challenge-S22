@@ -18,12 +18,11 @@ In Notebook 2 - PMM, I have done the following
   4. Looking at Metrics of the LR model
   5. Reasoning to move on to a new model
   6. Fitting the data to a Decision Tree model and performing Cross Validation
-  7. Looking at Metrics of the DT model
+  7. Looking at Metrics of the DT model and why I decided to stop
   8. Checking the feature importance from DT model
 
 
-I had a great time working on this challange and have learnt new techniques and concepts
-I did a lot of experimentation which has not been shown in the final notebook
+I had a great time working on this challange and have learnt new techniques and concepts. While, I did a lot of experimentation it has been ommited for brevity
 
 
 Below is the list of References that I have used
